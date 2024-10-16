@@ -1,0 +1,2 @@
+# Amazonclone
+ A front-end clone of the Amazon website, created using HTML and CSS to mimic the layout and design of the original site. This project focuses on replicating key elements such as the navigation bar, product listings, and footer, providing a static but responsive interface for learning and practicing web development skills. It demonstrates how an e-commerce homepage can be structured with basic web technologies, making it a great starting point for beginners in front-end development.
